@@ -1,0 +1,1 @@
+Developed a personalized medicine recommendation system that predicts diseases based on symptoms and provides tailored guidance on precautions, medications, workout routines, and diet plans. Integrated recommendations include antifungal treatments, lifestyle adjustments, and dietary suggestions to support symptom management and recovery.
